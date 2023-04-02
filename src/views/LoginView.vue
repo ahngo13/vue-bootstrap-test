@@ -1,12 +1,11 @@
 <template>
-
+    <h1>Login Page</h1>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'LoginPage',
   props: {
-    msg: String
   }
 }
 </script>
